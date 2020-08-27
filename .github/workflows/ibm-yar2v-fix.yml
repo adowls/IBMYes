@@ -1,4 +1,4 @@
-name: IBM Cloud Auto Restart yar2v-gmail
+name: IBM Cloud Auto Restart yar2v-gmail-fix
 
 on:
   push:
