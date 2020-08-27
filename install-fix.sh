@@ -13,7 +13,7 @@ create_mainfest_file(){
     IBM_MEM_SIZE=256
     fi
     echo "内存大小：${IBM_MEM_SIZE}"
-	WSPATH=‘ray’
+	WSPATH=ray
 	echo "WebSocket路径：${WSPATH}"
 #    UUID=$(cat /proc/sys/kernel/random/uuid)
 #    echo "生成随机UUID：${UUID}"
